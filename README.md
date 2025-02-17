@@ -51,7 +51,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ### Installation
 
-- Just, Clone this repository -
+- Just, Clone this repository - https://github.com/Xmitriy/phisher.git
   ```
  git clone https://github.com/Xmitriy/phisher.git
   ```
